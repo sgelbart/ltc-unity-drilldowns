@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{04088676-8008-0749-A4F0-994E171FF7F0}") = "Zome Walk 2", "Assembly-CSharp.csproj", "{37678447-AC0F-4B54-7D3C-A4EB6116BB51}"
+EndProject
+Project("{04088676-8008-0749-A4F0-994E171FF7F0}") = "Zome Walk 2", "Assembly-CSharp-Editor.csproj", "{B22DFB62-0C45-1031-754D-C00BCBF3F342}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37678447-AC0F-4B54-7D3C-A4EB6116BB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37678447-AC0F-4B54-7D3C-A4EB6116BB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37678447-AC0F-4B54-7D3C-A4EB6116BB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37678447-AC0F-4B54-7D3C-A4EB6116BB51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B22DFB62-0C45-1031-754D-C00BCBF3F342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22DFB62-0C45-1031-754D-C00BCBF3F342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22DFB62-0C45-1031-754D-C00BCBF3F342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22DFB62-0C45-1031-754D-C00BCBF3F342}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
